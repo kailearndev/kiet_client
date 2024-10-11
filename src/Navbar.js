@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full   px-8 md:px-20 lg:px-40 py-4 flex justify-between items-center z-50 animate-fade-up ">
+    <nav className="fixed top-0 left-0 w-full backdrop-blur-md	   px-8 md:px-20 lg:px-40 py-4 flex justify-between items-center z-50 animate-fade-up ">
       <h1 className="font-afacad text-lg">Tuấn Kiệt 🛍️</h1>
       <ul className="flex items-center">
         <label className="swap swap-rotate">
