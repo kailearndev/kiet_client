@@ -39,7 +39,7 @@ function App() {
         <p className="text-md py-1  md:text-xl animate-pulse font-medium">
           <br />
         </p>
-        <div className="text-5xl py-4 flex justify-center gap-8  flex-col lg:flex-row  items-center">
+        <div className="text-5xl py-4  justify-center gap-8 grid md:grid-cols-3  items-center">
           <div className="flex flex-col items-center gap-2">
             <img
               className="h-10 w-10 bg-white animate-jump-in rounded-md"
